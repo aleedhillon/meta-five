@@ -156,4 +156,4 @@ If you discover a security vulnerability within MetaFive, please send an e-mail 
 
 ## License
 
-The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The MetaFive packge is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).

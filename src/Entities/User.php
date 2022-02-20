@@ -25,6 +25,7 @@ class User
     protected $phone_password;
     protected $investor_password;
     protected $agent;
+    protected $company;
 
     /**
      * @return mixed
@@ -236,5 +237,17 @@ class User
     public function getAgent()
     {
         return $this->agent;
+    }
+
+    public function setCompany($company)
+    {
+        $this->company = $company;
+
+        return $this;
+    }
+
+    public function getCompany()
+    {
+        return $this->company;
     }
 }

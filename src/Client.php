@@ -185,6 +185,7 @@ class Client
         $mtUser->Leverage = $user->getLeverage();
         $mtUser->ZipCode = $user->getZipCode();
         $mtUser->Agent = $user->getAgent();
+        $mtUser->Company = $user->getCompany();
 
         $newMtUser = MTUser::CreateDefault();
         $result = $mt_user->Add($mtUser, $newMtUser);

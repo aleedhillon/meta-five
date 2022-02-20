@@ -1,0 +1,27 @@
+{
+    "name": "aleedhillon/meta-five",
+    "description": "Metatrader 5 Web API Wrapper for Laravel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ali A. Dhillon",
+            "email": "aleedhx@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "AleeDhillon\\MetaFive\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "AleeDhillon\\MetaFive\\MetaFiveProvider"
+            ]
+        }
+    },
+    "require-dev": {
+        "orchestra/testbench": "^6.0"
+    }
+}

@@ -141,7 +141,7 @@ In this revisioin I haven't touched much to the core in next I intend to rewrite
 
 ## Credits
 
-Thanx to [Tarikh Agustia](https://github.com/tarikhagustia) who wrote the following two packges from which I have rewritten this current package with improvements like the Laravel singleton pattern for speed.
+Thanx to [Tarikh Agustia](https://github.com/tarikhagustia) who wrote the following two packges from which I have rewritten this current package with improvements like the Laravel singleton pattern for speed and reducing API calls to MT5.
 
 - [https://github.com/tarikhagustia/php-mt5](https://github.com/tarikhagustia/php-mt5)
 - [https://github.com/tarikhagustia/laravel-mt5](https://github.com/tarikhagustia/laravel-mt5)

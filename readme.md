@@ -1,4 +1,4 @@
-## Laravel MT5
+## Meta Five
 
 This is Laravel 8.x package wrapper library for Metatrader 5 Web API
 

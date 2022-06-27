@@ -6,6 +6,10 @@ This is Laravel 8.x package wrapper library for Metatrader 5 Web API
 
 ## Documentation
 
+### Packagist
+
+[https://packagist.org/packages/aleedhillon/meta-five](https://packagist.org/packages/aleedhillon/meta-five).
+
 ### Installing
 
 To install the package, in terminal:

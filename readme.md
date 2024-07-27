@@ -8,16 +8,25 @@ This is Laravel 8.x package wrapper library for Metatrader 5 Web API
 
 Looking for a comprehensive, ready-made CRM solution for the MetaTrader 5 platform? Look no further! We offer a robust MT5 CRM system designed to efficiently manage client data, interactions, and services.
 
-**MT5 CRM Features:**
+### MT5 CRM Features:
+
 - **Client Onboarding:** Streamline the process of registering and managing new clients.
 - **Communication Tracking:** Keep detailed records of client communications to improve service and satisfaction.
 - **Reporting Tools:** Generate insightful reports to enhance productivity and client satisfaction.
+- **Inter-Account Transfers:** Facilitate seamless transfers between accounts.
+- **Manual and Automatic Payment Gateways:** Manage deposits and withdrawals from MetaTrader trade accounts effortlessly.
+- **Top-Ups and Bonuses:** Easily manage top-ups and bonuses for your clients.
+- **Public Website Management:** Customize and manage your public website through the admin panel.
+- **Web Trader:** Offer a web-based trading platform for your clients.
+- **Introducing Broker Features:** Implement different commission levels for introducing brokers.
+- **User and Trade Accounts Management:** Comprehensive tools to manage all user and trade accounts.
 
-Our MT5 CRM is designed to boost your brokerage's efficiency and client relations. If you're interested in a turnkey CRM solution, contact us for more information.
+Our MT5 CRM is designed to boost your brokerage's efficiency and client relations. If you're interested in a turnkey CRM solution, a demo can be provided upon contact.
 
-**Contact Information:**
-- Email: [aleedhx@gmail.com]
-- WhatsApp: [+923070101700]
+### Contact Information:
+
+- **Email:** [aleedhx@gmail.com]
+- **WhatsApp:** [+923070101700]
 
 For more details or to purchase the ready-made CRM, please reach out to us!
 

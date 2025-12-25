@@ -26,7 +26,6 @@ Our MT5 CRM is designed to boost your brokerage's efficiency and client relation
 ### Contact Information:
 
 - **Email:** [aleedhx@gmail.com]
-- **WhatsApp:** [+923070101700]
 
 For more details or to purchase the ready-made CRM, please reach out to us!
 
